@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'trueno';
+    src: url('../fonts/trueno/TruenoRg.otf');
+}
+
+@font-face {
+    font-family: 'trueno-bold';
+    src: url('../fonts/trueno/TruenoBd.otf');
+}
+
+@font-face {
+    font-family: 'trueno-smbold';
+    src: url('../fonts/trueno/TruenoSBd.otf');
+}
+
+@font-face {
+    font-family: 'trueno-lite';
+    src: url('../fonts/trueno/TruenoUltLt.otf');
+}
+
+@font-face {
+    font-family: 'noirPro';
+    src: url('../fonts/noir/Turok.ttf');
+}
+
+@font-face {
+    font-family: 'Turok';
+    src: url('../fonts/Turok.ttf');
+}
+
+@font-face {
+    font-family: 'essai';
+    src: url('../fonts/Essai.ttf');
+}
