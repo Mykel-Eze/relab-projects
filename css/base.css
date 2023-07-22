@@ -12,7 +12,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 body {
 	--color-text: #fff;
 	--color-bg: #0e0e0f;
-	--color-link: #EE9A00;
+	--color-link: #ffffff;
 	--color-link-hover: #8e5c00;
 	color: var(--color-text);
 	background-color: var(--color-bg);
@@ -64,9 +64,17 @@ a:focus {
 }
 
 .frame__github,
-.frame__links a:not(:last-child),
 .frame__demos a:not(:last-child) {
 	margin-right: 1rem;
+	font-family: 'Bodoni', serif;
+  	font-style: italic;
+}
+
+.frame__links{
+	margin-right: 1rem;
+	padding-right: 1rem;
+	font-family: 'Bodoni', serif;
+  	font-style: italic;
 }
 
 .content {

@@ -32,3 +32,18 @@
     font-family: 'essai';
     src: url('../fonts/Essai.ttf');
 }
+@font-face {
+    font-family: 'Bodoni';
+    src: url('../fonts/Bodoni_Moda/static/BodoniModa_48pt-Italic.ttf') format('truetype'); /* Adjust the path and filename to your actual font file */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Bodoni';
+    src: url('../fonts/Bodoni_Moda/static/BodoniModa_18pt-Italic.ttf') format('truetype'); /* Adjust the path and filename to your actual italic font file */
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  

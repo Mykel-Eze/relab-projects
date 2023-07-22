@@ -4,7 +4,7 @@ body {
 	overflow: hidden;
 	cursor: default;
 	line-height: 1.5;
-	font-family: 'trueno-lite', sans-serif;
+	font-family: 'roboto', sans-serif;
 }
 
 ::-webkit-scrollbar {
@@ -102,7 +102,7 @@ a img.p-img {
 .frame__links a {
 	text-transform: capitalize;
 	background: var(--color-link);
-	color: white;
+	color: #000000;
 	padding: 5px 10px;
 	border-radius: 20px;
 }
